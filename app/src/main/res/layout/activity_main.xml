@@ -23,7 +23,8 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="5dp"
         android:layout_marginBottom="17dp"
-        android:text="@string/textTurnBtn"
+        android:text="@string/textRotateBtn"
+        android:onClick="btnTurnScreenClick"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
@@ -36,7 +37,7 @@
         android:autofillHints="90"
         android:ems="10"
         android:inputType="number"
-        android:text="@string/angleOfTurnValueDefault"
+        android:text="@string/angleOfRotateValueDefault"
         app:layout_constraintBottom_toTopOf="@+id/btnTurnScreen"
         app:layout_constraintStart_toEndOf="@+id/textView" />
 

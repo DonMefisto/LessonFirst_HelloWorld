@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">LessonFirst_HelloWorld</string>
+    <string name="HeadlineText">Hello World!</string>
+    <string name="textTurnBtn">Turn the screen</string>
+    <string name="txtViewChooseAngle">Choose turn angle:</string>
+    <string name="angleOfTurnValueDefault" translatable="false">90</string>
+    <string name="hintForAngle" translatable="false">90</string>
 </resources>

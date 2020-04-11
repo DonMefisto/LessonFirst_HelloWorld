@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Урок Первый "Привет, Мир!"</string>
+    <string name="HeadlineText">Привет, Мир!</string>
+    <string name="textRotateBtn">Поверни экран</string>
+    <string name="txtViewChooseAngle">Выберите угол поворота:</string>
+</resources>
